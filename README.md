@@ -1,7 +1,7 @@
 # Yolov8-detecton-result
 wafer Defect Detection using YOLOv8
 Dataset: WM-811K
-Model: YOLOv8m
+Model: YOLOv8l
 Classes:
 - Center
 - Donut
