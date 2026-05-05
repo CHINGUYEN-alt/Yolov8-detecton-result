@@ -1,4 +1,4 @@
-# Yolov8-detecton-result
+# Yolov8-detection-result
 wafer Defect Detection using YOLOv8
 Dataset: WM-811K
 Model: YOLOv8l
